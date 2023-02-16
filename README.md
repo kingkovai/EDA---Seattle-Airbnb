@@ -13,4 +13,8 @@
  - Pandas library 
 #### Dataset
  We have 3 files in the dataset ,each provides information on listings , reviews and calendar
-
+#### Files in the project
+ - EDA Airbnb data.ipynb  - Jupyter notebook for exploratory data analysis
+ 
+#### Link of blog post with findings
+- [Medium blog post](https://medium.com/@kingkovai/exploratory-data-analysis-airbnb-seattle-25f1a0b27437)
