@@ -11,6 +11,7 @@
  
 #### Installations
  - Pandas library 
+ - matplotlib library 
 #### Dataset
  We have 3 files in the dataset ,each provides information on listings , reviews and calendar
 #### Files in the project
