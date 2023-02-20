@@ -17,4 +17,4 @@
  - EDA Airbnb data.ipynb  - Jupyter notebook for exploratory data analysis
  
 #### Link of blog post with findings
-- [Medium blog post](https://medium.com/@kingkovai/exploratory-data-analysis-airbnb-seattle-25f1a0b27437)
+- [Medium blog post](https://medium.com/@kingkovai/exploratory-data-analysis-airbnb-seattle-78547c8a636d)
